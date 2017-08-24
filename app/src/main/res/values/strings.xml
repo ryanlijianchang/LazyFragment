@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">LazyFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="titles1">
+        <item>美女</item>
+        <item>帅哥</item>
+        <item>萌娃</item>
+    </string-array>
+
+    <string-array name="titles2">
+        <item>北京</item>
+        <item>香港</item>
+        <item>上海</item>
+    </string-array>
+
+    <string-array name="beauty">
+        <item>http://onq81n53u.bkt.clouddn.com/beauty1.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/beauty2.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/beauty3.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/beauty4.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/beauty5.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/beauty6.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/beauty7.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/beauty8.jpg</item>
+
+    </string-array>
+
+    <string-array name="hansome">
+        <item>http://onq81n53u.bkt.clouddn.com/hansome1.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/hansome2.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/hansome3.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/hansome4.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/hansome5.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/hansome6.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/hansome7.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/hansome8.jpg</item>
+    </string-array>
+
+    <string-array name="baby">
+        <item>http://onq81n53u.bkt.clouddn.com/baby1.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/baby2.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/baby3.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/baby4.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/baby5.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/baby6.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/baby7.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/baby8.jpg</item>
+    </string-array>
+
+
+    <string-array name="peking">
+        <item>http://onq81n53u.bkt.clouddn.com/peking1.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/peking2.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/peking3.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/peking4.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/peking5.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/peking6.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/peking7.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/peking8.jpg</item>
+
+    </string-array>
+
+    <string-array name="hongkong">
+        <item>http://onq81n53u.bkt.clouddn.com/hongkong1.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/hongkong2.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/hongkong3.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/hongkong4.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/hongkong5.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/hongkong6.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/hongkong7.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/hongkong8.jpg</item>
+    </string-array>
+
+    <string-array name="shanghai">
+        <item>http://onq81n53u.bkt.clouddn.com/sh1.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/sh2.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/sh3.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/sh4.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/sh5.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/sh6.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/sh7.jpg</item>
+        <item>http://onq81n53u.bkt.clouddn.com/sh8.jpg</item>
+
+    </string-array>
+</resources>
