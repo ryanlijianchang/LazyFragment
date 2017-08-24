@@ -87,8 +87,6 @@ public class SubFragment extends Fragment {
                 pullData();
             }
         });
-
-        getUserVisibleHint()
     }
 
     /**
